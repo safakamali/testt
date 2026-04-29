@@ -1,3 +1,1 @@
-click 330 779
-click 266 773
-click 371 782
+click 382 774
